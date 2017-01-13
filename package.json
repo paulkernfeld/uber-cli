@@ -25,6 +25,7 @@
     "currency-symbol-map": "3.1.0",
     "immutable": "3.8.1",
     "node-emoji": "1.4.3",
+    "request": "^2.79.0",
     "uber-client": "0.0.1"
   },
   "devDependencies": {
